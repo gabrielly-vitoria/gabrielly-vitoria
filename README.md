@@ -144,7 +144,7 @@
     <picture align="center">
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielly-vitoria/gabrielly-vitoria/output/github-contribution-grid-snake-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielly-vitoria/gabrielly-vitoria/output/github-contribution-grid-snake-dark.svg">
-      <img align="center" alt="github contribution grid snake animation" src="https://github.com/gabrielly-vitoria/gabrielly-vitoria/blob/output/github-contribution-grid-snake.svg">
+      <img align="center" alt="github contribution grid snake animation" src="https://github.com/gabrielly-vitoria/gabrielly-vitoria/blob/output/github-contribution-grid-snake.gif">
     </picture>
   </a>
 </div>
