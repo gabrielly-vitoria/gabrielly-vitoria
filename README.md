@@ -140,11 +140,11 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/gabrielly-vitoria">
+  <a href="https://github.com/andreas-yuji-fujiki">
     <picture align="center">
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielly-vitoria/gabrielly-vitoria/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielly-vitoria/gabrielly-vitoria/output/github-contribution-grid-snake-dark.svg">
-      <img align="center" alt="github contribution grid snake animation" src="https://github.com/gabrielly-vitoria/gabrielly-vitoria/blob/output/github-contribution-grid-snake.gif">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreas-yuji-fujiki/andreas-yuji-fujiki/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andreas-yuji-fujiki/andreas-yuji-fujiki/output/github-contribution-grid-snake-dark.svg">
+      <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/andreas-yuji-fujiki/andreas-yuji-fujiki/output/github-contribution-grid-snake.svg">
     </picture>
   </a>
 </div>
