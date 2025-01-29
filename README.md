@@ -29,7 +29,7 @@
   Typing Presentation & Contact Area:
 -->
 <a href="https://github.com/gabrielly-vitoria">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00b5f7&size=35&center=true&vCenter=true&width=1000&lines=🪐+Hey,+i'm+Andreas+Yuji+=];⚛️+I'm+a+React+developer+=};🎨+I'm+a+Frontend+Developer+•+ᴗ+-;🚀+I'm+17+years+old+•ᴗ•;"  alt="Andreas Yuji's Profile Presentation "/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00b5f7&size=35&center=true&vCenter=true&width=1000&lines=🪐+Hey,+i'm+Gabrielly+Vitória;⚛️+I'm+a+React+developer;🎨+I'm+a+Frontend+Developer+•+ᴗ+-;🚀+I'm+17+years+old+•ᴗ•;"  alt="Gabrielly Vitória's Profile Presentation "/>
 </a>
 
 <!-- Improvised Margin -->
@@ -47,13 +47,10 @@
 <p></p>
 
 <div align="center">
-    <a href="https://gabrielly-vitoria.github.io/portfolio/">
-      <img src="https://img.shields.io/badge/Portfolio-800080?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio">
-    </a>
-    <a href="https://www.linkedin.com/in/gabrielly-vitoria-a08633321/" target="_blank">
+    <a href="https://www.linkedin.com/in/gabrielly-vit%C3%B3ria-6141882b3/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt"LinkedIn" />
     </a>
-    <a href="mailto:andreaspinheirocontato@gmail.com" target="_blank"> 
+    <a href="mailto:gabriellyv1244@gmail.com" target="_blank"> 
       <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Gmail" />
     </a>
 </div> 
@@ -68,8 +65,8 @@
 -->
 <div align="center">  
   <a href="https://github.com/gabrielly-vitoria">
-    <img width="50%" height="195px" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=gabrielly-vitoria&count_private=true&theme=tokyonight&hide_border=true" alt="Andreas Yuji's GitHub Streak Stats" /> 
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabrielly-vitoria&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Andreas Yuji's GitHub Stats" />
+    <img width="50%" height="195px" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=gabrielly-vitoria&count_private=true&theme=tokyonight&hide_border=true" alt="Gabrielly Vitória's GitHub Streak Stats" /> 
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabrielly-vitoria&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Gabrielly Vitória's GitHub Stats" />
   </a>
 </div>
 
@@ -162,7 +159,7 @@
   Motivational Phrases &  Indication to pinned projects
 -->
 <a href="https://github.com/gabrielly-vitoria">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00b5f7&size=35&center=true&vCenter=true&width=1000&lines=%F0%9F%A7%91+No+matter+how+hard,+persist,+%26+code!;%F0%9F%9A%80+No+matter+the+challenge,+progress,+%26+code!;%F0%9F%94%A7+No+matter+the+obstacle,+advance,+%26+code!;%F0%9F%93%9A+No+matter+the+mistake,+learn,+%26+code!;%E2%8F%B3+No+matter+the+time,+achieve,+%26+code!;%F0%9F%A4%94+No+matter+the+doubt,+trust,+%26+code!;%F0%9F%95%92+No+matter+the+pace,+continue,+%26+code!;%F0%9F%9B%A4+No+matter+the+path,+follow,+%26+code!;%F0%9F%94%84+No+matter+the+failure,+restart,+%26+code!;%F0%9F%97%82+No+matter+the+chaos,+organize,+%26+code!" alt="Andreas Yuji's Profile Motivational Phrases">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00b5f7&size=35&center=true&vCenter=true&width=1000&lines=%F0%9F%A7%91+No+matter+how+hard,+persist,+%26+code!;%F0%9F%9A%80+No+matter+the+challenge,+progress,+%26+code!;%F0%9F%94%A7+No+matter+the+obstacle,+advance,+%26+code!;%F0%9F%93%9A+No+matter+the+mistake,+learn,+%26+code!;%E2%8F%B3+No+matter+the+time,+achieve,+%26+code!;%F0%9F%A4%94+No+matter+the+doubt,+trust,+%26+code!;%F0%9F%95%92+No+matter+the+pace,+continue,+%26+code!;%F0%9F%9B%A4+No+matter+the+path,+follow,+%26+code!;%F0%9F%94%84+No+matter+the+failure,+restart,+%26+code!;%F0%9F%97%82+No+matter+the+chaos,+organize,+%26+code!" alt="Gabrielly Vitória's Profile Motivational Phrases">
 </a>
 
 #
