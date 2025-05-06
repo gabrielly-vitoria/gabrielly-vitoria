@@ -63,7 +63,7 @@
     <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff" alt="Git">
   </a>
   <a href="https://www.figma.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Figma-F2E1E?style=for-the-badge&logo=figma&logoColor=ffffff" alt="Figma">
+  <img src="https://img.shields.io/badge/-Figma-1ABC9C?style=for-the-badge&logo=figma&logoColor=ffffff" alt="Figma">
   </a>
   <a href="https://obsidian.md/" target="_blank">
     <img src="https://img.shields.io/badge/-Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=ffffff" alt="Obsidian">
