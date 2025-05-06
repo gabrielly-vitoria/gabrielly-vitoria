@@ -1,11 +1,11 @@
 <!-- Stacks -->
 <div align="center">
   <a href="https://github.com/gabrielly-vitoria">
-    <img src="https://img.shields.io/badge/-HTML5-FF69B4?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML5">&nbsp;
-    <img src="https://img.shields.io/badge/-CSS3-FF69B4?style=for-the-badge&logo=css3&logoColor=ffffff" alt="CSS3">&nbsp;
-    <img src="https://img.shields.io/badge/-JavaScript-FF69B4?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">&nbsp;
-    <img src="https://img.shields.io/badge/-React.js-FF69B4?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js">&nbsp;
-    <img src="https://img.shields.io/badge/-Next.js-FF69B4?style=for-the-badge&logo=next.js&logoColor=ffffff" alt="Next.js">
+    <img src="https://img.shields.io/badge/-HTML5-6C3B99?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML5">&nbsp;
+    <img src="https://img.shields.io/badge/-CSS3-6C3B99?style=for-the-badge&logo=css3&logoColor=ffffff" alt="CSS3">&nbsp;
+    <img src="https://img.shields.io/badge/-JavaScript-E43F80?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">&nbsp;
+    <img src="https://img.shields.io/badge/-React.js-3949AB?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js">&nbsp;
+    <img src="https://img.shields.io/badge/-Next.js-3949AB?style=for-the-badge&logo=next.js&logoColor=ffffff" alt="Next.js">
   </a>
 </div>
 
@@ -14,7 +14,7 @@
 
 <!-- Typing Presentation -->
 <a href="https://github.com/gabrielly-vitoria">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=35&center=true&vCenter=true&width=1000&lines=🪐+Hey,+i'm+Gabrielly+Vitória;⚛️+I'm+a+React+developer;🎨+I'm+a+Frontend+Developer+•+ᴗ+-;🚀+I'm+17+years+old+•ᴗ•;" alt="Gabrielly Vitória's Presentation"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=E43F80&size=35&center=true&vCenter=true&width=1000&lines=🪐+Hey,+i'm+Gabrielly+Vitória;⚛️+I'm+a+React+developer;🎨+I'm+a+Frontend+Developer+•+ᴗ+-;🚀+I'm+17+years+old+•ᴗ•;" alt="Gabrielly Vitória's Presentation"/>
 </a>
 
 <!-- Margin -->
@@ -23,10 +23,10 @@
 <!-- Contato -->
 <div align="center">
   <a href="https://www.linkedin.com/in/gabrielly-vit%C3%B3ria-6141882b3/" target="_blank">
-    <img src="https://img.shields.io/badge/💻 LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-6C3B99?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" />
   </a>
   <a href="mailto:gabriellyv1244@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Gmail" />
+    <img src="https://img.shields.io/badge/-Gmail-E43F80?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Gmail" />
   </a>
 </div>
 
@@ -43,7 +43,7 @@
 <!-- Contributions -->
 <div align="center">
   <a href="https://github.com/gabrielly-vitoria">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielly-vitoria&bg_color=000000&color=FF69B4&line=FFD700&point=1E90FF&area=true&hide_border=true" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielly-vitoria&bg_color=0d1117&color=E43F80&line=6C3B99&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
     <img width="10%" src="https://visitor-badge.laobi.icu/badge?page_id=gabrielly-vitoria.gabrielly-vitoria" alt="Page Visitors" />
   </a>
 </div>
@@ -54,10 +54,13 @@
 <p align="center">🛸 Tools That I Use :</p>
 <div align="center">
   <a href="https://github.com/gabrielly-vitoria">
-    <img src="https://img.shields.io/badge/-Linux-FF69B4?style=for-the-badge&logo=linux&logoColor=ffffff" alt="Linux">&nbsp;
-    <img src="https://img.shields.io/badge/-Git-FF69B4?style=for-the-badge&logo=git&logoColor=F05032" alt="Git">&nbsp;
-    <img src="https://img.shields.io/badge/-GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub">&nbsp;
-    <img src="https://img.shields.io/badge/-VSCode-FF69B4?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" alt="VSCode">&nbsp;
+    <img src="https://img.shields.io/badge/Linux-3949AB?style=for-the-badge&logo=linux&logoColor=ffffff" alt="Linux">&nbsp;
+    <img src="https://img.shields.io/badge/Git-6C3B99?style=for-the-badge&logo=git&logoColor=F05032" alt="Git">&nbsp;
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub">&nbsp;
+    <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff" alt="VSCode">&nbsp;
+    <img src="https://img.shields.io/badge/Figma-E43F80?style=for-the-badge&logo=figma&logoColor=ffffff" alt="Figma">&nbsp;
+    <img src="https://img.shields.io/badge/Obsidian-6C3B99?style=for-the-badge&logo=obsidian&logoColor=ffffff" alt="Obsidian">&nbsp;
+    <img src="https://img.shields.io/badge/Notion-3949AB?style=for-the-badge&logo=notion&logoColor=ffffff" alt="Notion">&nbsp;
   </a>
 </div>
 
@@ -92,7 +95,7 @@
 
 <!-- Frases -->
 <a href="https://github.com/gabrielly-vitoria">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=35&center=true&vCenter=true&width=1000&lines=%F0%9F%A7%91+No+matter+how+hard,+persist,+%26+code!;%F0%9F%9A%80+No+matter+the+challenge,+progress,+%26+code!;%F0%9F%94%A7+No+matter+the+obstacle,+advance,+%26+code!;%F0%9F%93%9A+No+matter+the+mistake,+learn,+%26+code!;%E2%8F%B3+No+matter+the+time,+achieve,+%26+code!;%F0%9F%A4%94+No+matter+the+doubt,+trust,+%26+code!;%F0%9F%95%92+No+matter+the+pace,+continue,+%26+code!;%F0%9F%9B%A4+No+matter+the+path,+follow,+%26+code!;%F0%9F%94%84+No+matter+the+failure,+restart,+%26+code!;%F0%9F%97%82+No+matter+the+chaos,+organize,+%26+code!" alt="Frases Motivacionais">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=E43F80&size=35&center=true&vCenter=true&width=1000&lines=%F0%9F%A7%91+No+matter+how+hard,+persist,+%26+code!;%F0%9F%9A%80+No+matter+the+challenge,+progress,+%26+code!;%F0%9F%94%A7+No+matter+the+obstacle,+advance,+%26+code!;%F0%9F%93%9A+No+matter+the+mistake,+learn,+%26+code!;%E2%8F%B3+No+matter+the+time,+achieve,+%26+code!;%F0%9F%A4%94+No+matter+the+doubt,+trust,+%26+code!;%F0%9F%95%92+No+matter+the+pace,+continue,+%26+code!;%F0%9F%9B%A4+No+matter+the+path,+follow,+%26+code!;%F0%9F%94%84+No+matter+the+failure,+restart,+%26+code!;%F0%9F%97%82+No+matter+the+chaos,+organize,+%26+code!" alt="Frases Motivacionais">
 </a>
 
 #
