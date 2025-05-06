@@ -51,28 +51,19 @@
 #
 
 <!-- Tools -->
+<!-- Tools -->
 <p align="center">🛸 Tools That I Use :</p>
 <div align="center">
-  <a href="https://github.com/gabrielly-vitoria" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub">
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff" alt="VSCode">
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff" alt="Git">
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-  <img src="https://img.shields.io/badge/-Figma-1ABC9C?style=for-the-badge&logo=figma&logoColor=ffffff" alt="Figma">
-  </a>
-  <a href="https://obsidian.md/" target="_blank">
-    <img src="https://img.shields.io/badge/-Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=ffffff" alt="Obsidian">
-  </a>
-  <a href="https://www.notion.so/" target="_blank">
-    <img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=ffffff" alt="Notion">
+  <a href="https://github.com/gabrielly-vitoria">
+    <img src="https://img.shields.io/badge/-GitHub-E34F26?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub">&nbsp;
+    <img src="https://img.shields.io/badge/-Git-6C3B99?style=for-the-badge&logo=git&logoColor=F05032" alt="Git">&nbsp;
+    <img src="https://img.shields.io/badge/-Linux-3949AB?style=for-the-badge&logo=linux&logoColor=ffffff" alt="Linux">&nbsp;
+    <img src="https://img.shields.io/badge/-VSCode-E43F80?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VSCode">&nbsp;
+    <img src="https://img.shields.io/badge/-Figma-248A7D?style=for-the-badge&logo=figma&logoColor=ffffff" alt="Figma">&nbsp;
+    <img src="https://img.shields.io/badge/-Notion-3949AB?style=for-the-badge&logo=notion&logoColor=ffffff" alt="Notion">&nbsp;
+    <img src="https://img.shields.io/badge/-Obsidian-6C3B99?style=for-the-badge&logo=obsidian&logoColor=8A2BE2" alt="Obsidian">&nbsp;
   </a>
 </div>
-
 
 #
 
