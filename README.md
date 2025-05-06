@@ -22,7 +22,9 @@
 
 <!-- Contato -->
 <div align="center">
-  <a href=(https://img.shields.io/badge/LinkedIn-6C3B99?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/gabrielly-vit%C3%B3ria-6141882b3/)
+    <a href="https://www.linkedin.com/in/gabrielly-vit%C3%B3ria-6141882b3/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-6C3B99?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" />
+  </a>
   <a href="mailto:gabriellyv1244@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-E43F80?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Gmail" />
   </a>
