@@ -1,13 +1,11 @@
 <!-- Stacks -->
 <div align="center">
   <a href="https://github.com/gabrielly-vitoria">
-   <img src="https://img.shields.io/badge/-HTML5-2e003e?style=for-the-      badge&logo=html5&logoColor=ffffff&borderRadius=8" alt="HTML5">&nbsp;
-<img src="https://img.shields.io/badge/-CSS3-2e003e?style=for-the-badge&logo=css3&logoColor=ffffff&borderRadius=8" alt="CSS3">&nbsp;
-<img src="https://img.shields.io/badge/-JavaScript-2e003e?style=for-the-badge&logo=javascript&logoColor=F7DF1E&borderRadius=8" alt="JavaScript">&nbsp;
-<img src="https://img.shields.io/badge/-React.js-2e003e?style=for-the-badge&logo=react&logoColor=61DAFB&borderRadius=8" alt="React.js">&nbsp;
-<img src="https://img.shields.io/badge/-Next.js-2e003e?style=for-the-badge&logo=next.js&logoColor=ffffff&borderRadius=8" alt="Next.js">
-
-
+    <img class="badge" src="https://img.shields.io/badge/-HTML5-2e003e?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML5">&nbsp;
+    <img class="badge" src="https://img.shields.io/badge/-CSS3-2e003e?style=for-the-badge&logo=css3&logoColor=ffffff" alt="CSS3">&nbsp;
+    <img class="badge" src="https://img.shields.io/badge/-JavaScript-2e003e?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">&nbsp;
+    <img class="badge" src="https://img.shields.io/badge/-React.js-2e003e?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js">&nbsp;
+    <img class="badge" src="https://img.shields.io/badge/-Next.js-2e003e?style=for-the-badge&logo=next.js&logoColor=ffffff" alt="Next.js">
   </a>
 </div>
 
@@ -104,3 +102,9 @@
 <p align="left">
   📌 Some repositories pinned below :
 </p>
+
+<style>
+  .badge {
+    border-radius: 8px;
+  }
+</style>
