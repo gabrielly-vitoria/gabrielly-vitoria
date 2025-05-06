@@ -1,11 +1,12 @@
 <!-- Stacks -->
 <div align="center">
   <a href="https://github.com/gabrielly-vitoria">
-    <img src="https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=FFD700" alt="HTML5">&nbsp;
-    <img src="https://img.shields.io/badge/-CSS3-2e003e?style=for-the-badge&logo=css3&logoColor=9370DB" alt="CSS3">&nbsp;
-    <img src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFD700" alt="JavaScript">&nbsp;
-    <img src="https://img.shields.io/badge/-React.js-2e003e?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js">&nbsp;
-    <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=FFFFFF" alt="Next.js">
+   <img src="https://img.shields.io/badge/-HTML5-2e003e?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML5">&nbsp;
+<img src="https://img.shields.io/badge/-CSS3-2e003e?style=for-the-badge&logo=css3&logoColor=ffffff" alt="CSS3">&nbsp;
+<img src="https://img.shields.io/badge/-JavaScript-2e003e?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">&nbsp;
+<img src="https://img.shields.io/badge/-React.js-2e003e?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js">&nbsp;
+<img src="https://img.shields.io/badge/-Next.js-2e003e?style=for-the-badge&logo=next.js&logoColor=ffffff" alt="Next.js">
+
   </a>
 </div>
 
@@ -23,10 +24,12 @@
 <!-- Contato -->
 <div align="center">
   <a href="https://www.linkedin.com/in/gabrielly-vit%C3%B3ria-6141882b3/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-9370DB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:gabriellyv1244@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-FFD700?style=for-the-badge&logo=gmail&logoColor=000000" alt="Gmail" />
+  <img src="https://img.shields.io/badge/LinkedIn-2e003e?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" />
+</a>
+<a href="mailto:gabriellyv1244@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-2e003e?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Gmail" />
+</a>
+
   </a>
 </div>
 
@@ -54,11 +57,11 @@
 <p align="center">🛸 Tools That I Use :</p>
 <div align="center">
   <a href="https://github.com/gabrielly-vitoria">
-    <img src="https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=FFD700" alt="Linux">&nbsp;
-    <img src="https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=F05032" alt="Git">&nbsp;
-    <img src="https://img.shields.io/badge/-GitHub-2e003e?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub">&nbsp;
-    <img src="https://img.shields.io/badge/-VSCode-1E90FF?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff" alt="VSCode">&nbsp;
-    <img src="https://img.shields.io/badge/-Windows-000000?style=for-the-badge&logo=windows&logoColor=ffffff" alt="Windows">&nbsp;
+    <img src="https://img.shields.io/badge/-Linux-2e003e?style=for-the-badge&logo=linux&logoColor=ffffff" alt="Linux">&nbsp;
+<img src="https://img.shields.io/badge/-Git-2e003e?style=for-the-badge&logo=git&logoColor=F05032" alt="Git">&nbsp;
+<img src="https://img.shields.io/badge/-GitHub-2e003e?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub">&nbsp;
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-2e003e?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="Visual Studio Code">&nbsp;
+<img src="https://img.shields.io/badge/-Windows-2e003e?style=for-the-badge&logo=windows&logoColor=ffffff" alt="Windows">&nbsp;
   </a>
 </div>
 
