@@ -10,7 +10,7 @@
 </div>
 
 <!-- Margin -->
-<br><br><br><br>
+<br><br><br>
 
 <!-- Typing Presentation -->
 <a href="https://github.com/gabrielly-vitoria">
@@ -18,7 +18,7 @@
 </a>
 
 <!-- Margin -->
-<br><br><br><br>
+<br><br><br>
 
 <!-- Contato -->
 <div align="center">
