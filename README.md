@@ -84,14 +84,9 @@
 </p>
 <div align="center">
   <a href="https://github.com/gabrielly-vitoria">
-    <picture align="center">
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielly-vitoria/gabrielly-vitoria/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielly-vitoria/gabrielly-vitoria/output/github-contribution-grid-snake.svg">
-      <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gabrielly-vitoria/gabrielly-vitoria/output/github-contribution-grid-snake.svg">
-    </picture>
+    <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gabrielly-vitoria/gabrielly-vitoria/output/github-contribution-grid-snake.svg">
   </a>
 </div>
-
 
 #
 
