@@ -1,7 +1,7 @@
 <!-- Stacks -->
 <div align="center">
   <a href="https://github.com/gabrielly-vitoria">
-    <img src="https://img.shields.io/badge/-HTML5-6C3B99?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML5">&nbsp;
+    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/-CSS3-6C3B99?style=for-the-badge&logo=css3&logoColor=ffffff" alt="CSS3">&nbsp;
     <img src="https://img.shields.io/badge/-JavaScript-E43F80?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">&nbsp;
     <img src="https://img.shields.io/badge/-React.js-3949AB?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js">&nbsp;
