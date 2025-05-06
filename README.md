@@ -54,13 +54,13 @@
 <p align="center">🛸 Tools That I Use :</p>
 <div align="center">
   <a href="https://github.com/gabrielly-vitoria">
-    <img src="https://img.shields.io/badge/Linux-3949AB?style=for-the-badge&logo=linux&logoColor=ffffff" alt="Linux">&nbsp;
-   <img src="https://img.shields.io/badge/GitHub-%23E34F26.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub">&nbsp;
-    <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff" alt="VSCode">&nbsp;
-    <img src="https://img.shields.io/badge/Figma-E43F80?style=for-the-badge&logo=figma&logoColor=ffffff" alt="Figma">&nbsp;
-    <img src="https://img.shields.io/badge/Obsidian-6C3B99?style=for-the-badge&logo=obsidian&logoColor=ffffff" alt="Obsidian">&nbsp;
-    <img src="https://img.shields.io/badge/Notion-3949AB?style=for-the-badge&logo=notion&logoColor=ffffff" alt="Notion">&nbsp;
+    <img src="https://img.shields.io/badge/-Linux-7A4DFF?style=for-the-badge&logo=linux&logoColor=ffffff&borderRadius=8" alt="Linux">&nbsp;
+    <img src="https://img.shields.io/badge/-Git-7A4DFF?style=for-the-badge&logo=git&logoColor=F05032&borderRadius=8" alt="Git">&nbsp;
+    <img src="https://img.shields.io/badge/GitHub-%23E34F26.svg?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub">&nbsp;
+    <img src="https://img.shields.io/badge/-VSCode-7A4DFF?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&borderRadius=8" alt="VSCode">&nbsp;
+    <img src="https://img.shields.io/badge/-Figma-7A4DFF?style=for-the-badge&logo=figma&logoColor=ffffff&borderRadius=8" alt="Figma">&nbsp;
+    <img src="https://img.shields.io/badge/-Notion-7A4DFF?style=for-the-badge&logo=notion&logoColor=ffffff&borderRadius=8" alt="Notion">&nbsp;
+    <img src="https://img.shields.io/badge/-Obsidian-7A4DFF?style=for-the-badge&logo=obsidian&logoColor=ffffff&borderRadius=8" alt="Obsidian">&nbsp;
   </a>
 </div>
 
@@ -83,10 +83,10 @@
 </p>
 <div align="center">
   <a href="https://github.com/gabrielly-vitoria">
-    <picture align="center">
+    <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielly-vitoria/gabrielly-vitoria/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielly-vitoria/gabrielly-vitoria/output/github-contribution-grid-snake-dark.svg">
-      <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gabrielly-vitoria/gabrielly-vitoria/output/github-contribution-grid-snake.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielly-vitoria/gabrielly-vitoria/output/github-contribution-grid-snake.svg">
+      <img alt="snake animation" src="https://raw.githubusercontent.com/gabrielly-vitoria/gabrielly-vitoria/output/github-contribution-grid-snake.svg">
     </picture>
   </a>
 </div>
