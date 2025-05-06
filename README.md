@@ -55,7 +55,7 @@
 <div align="center">
   <a href="https://github.com/gabrielly-vitoria">
     <img src="https://img.shields.io/badge/Linux-3949AB?style=for-the-badge&logo=linux&logoColor=ffffff" alt="Linux">&nbsp;
-    <img src="https://img.shields.io/badge/Git-6C3B99?style=for-the-badge&logo=git&logoColor=F05032" alt="Git">&nbsp;
+   <img src="https://img.shields.io/badge/GitHub-%23E34F26.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub">&nbsp;
     <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff" alt="VSCode">&nbsp;
     <img src="https://img.shields.io/badge/Figma-E43F80?style=for-the-badge&logo=figma&logoColor=ffffff" alt="Figma">&nbsp;
