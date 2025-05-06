@@ -101,9 +101,3 @@
 <p align="left">
   📌 Some repositories pinned below :
 </p>
-
-<style>
-  .badge {
-    border-radius: 8px;
-  }
-</style>
