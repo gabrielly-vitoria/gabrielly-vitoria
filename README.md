@@ -1,4 +1,4 @@
-![descrição do gif](C:\Users\Gb_p\Documents\img-perfis\banner-git-hub.gif)
+![Arcade](C:\Users\Gb_p\Documents\img-perfis\banner-git-hub.gif)
 
 <!-- Margin -->
 <br><br><br>
