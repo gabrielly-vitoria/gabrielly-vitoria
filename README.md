@@ -4,13 +4,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AParovyshnaya&theme=cobalt&show_icons=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 <img align="right" alt="Coding" width="400" src="[add your link 
 here](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fzflipcoverscreengifs%2Fcomments%2F1gos4zy%2Fanime_gif_collection%2F%3Ftl%3Dpt-br&psig=AOvVaw0e3cdXdBMX1p4-um5LfqvB&ust=1758732807691000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjmibWs748DFQAAAAAdAAAAABAE)">
 
